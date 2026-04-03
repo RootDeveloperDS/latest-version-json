@@ -1,6 +1,6 @@
 {
   "software": "VISAR Mobile",
-  "version": "1.2.5.0",
+  "version": "1.4.0.0",
   "min_supported_version": "1.0.0.0",
   "mandatory": false,
   "download_url": "https://github.com/RootDeveloperDS/visar-mobile/releases/latest",
