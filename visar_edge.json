@@ -1,8 +1,8 @@
 {
   "software": "VISAR Edge",
-  "version": "1.5.0.0",
+  "version": "1.6.0.0",
   "min_supported_version": "1.0.0.0",
-  "mandatory": false,
+  "mandatory": true,
   "download_url": "https://github.com/RootDeveloperDS/visar-edge/releases/latest",
-  "notes": "Initial public release"
+  "notes": "Beta public release"
 }
