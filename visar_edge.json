@@ -2,7 +2,7 @@
   "software": "VISAR Edge",
   "version": "1.6.0.0",
   "min_supported_version": "1.0.0.0",
-  "mandatory": true,
-  "download_url": "https://github.com/RootDeveloperDS/visar-edge/releases/latest",
+  "mandatory": false,
+  "download_url": "https://visaredge.vercel.app/",
   "notes": "Beta public release"
 }
